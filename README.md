@@ -1,0 +1,2 @@
+# hubcrud
+DjangoCRUD Class Zuri 
